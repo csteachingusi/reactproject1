@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gyan\\source\\repos\\reactproject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A892F70-AA8F-4DD0-8B17-9657DC4AF4F5}|reactproject1.esproj|c:\\users\\gyan\\source\\repos\\reactproject1\\src\\bmicalculator.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4A892F70-AA8F-4DD0-8B17-9657DC4AF4F5}|reactproject1.esproj|solutionrelative:src\\bmicalculator.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A892F70-AA8F-4DD0-8B17-9657DC4AF4F5}|reactproject1.esproj|c:\\users\\gyan\\source\\repos\\reactproject1\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4A892F70-AA8F-4DD0-8B17-9657DC4AF4F5}|reactproject1.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A892F70-AA8F-4DD0-8B17-9657DC4AF4F5}|reactproject1.esproj|c:\\users\\gyan\\source\\repos\\reactproject1\\src\\fetchdata.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4A892F70-AA8F-4DD0-8B17-9657DC4AF4F5}|reactproject1.esproj|solutionrelative:src\\fetchdata.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A892F70-AA8F-4DD0-8B17-9657DC4AF4F5}|reactproject1.esproj|c:\\users\\gyan\\source\\repos\\reactproject1\\src\\counterstateexample.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4A892F70-AA8F-4DD0-8B17-9657DC4AF4F5}|reactproject1.esproj|solutionrelative:src\\counterstateexample.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A892F70-AA8F-4DD0-8B17-9657DC4AF4F5}|reactproject1.esproj|c:\\users\\gyan\\source\\repos\\reactproject1\\src\\propsexample.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4A892F70-AA8F-4DD0-8B17-9657DC4AF4F5}|reactproject1.esproj|solutionrelative:src\\propsexample.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A892F70-AA8F-4DD0-8B17-9657DC4AF4F5}|reactproject1.esproj|c:\\users\\gyan\\source\\repos\\reactproject1\\src\\inputexample.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4A892F70-AA8F-4DD0-8B17-9657DC4AF4F5}|reactproject1.esproj|solutionrelative:src\\inputexample.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A892F70-AA8F-4DD0-8B17-9657DC4AF4F5}|reactproject1.esproj|c:\\users\\gyan\\source\\repos\\reactproject1\\src\\fromeventhandle.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4A892F70-AA8F-4DD0-8B17-9657DC4AF4F5}|reactproject1.esproj|solutionrelative:src\\fromeventhandle.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BMICalculator.jsx",
+              "DocumentMoniker": "C:\\Users\\gyan\\source\\repos\\reactproject1\\src\\BMICalculator.jsx",
+              "RelativeDocumentMoniker": "src\\BMICalculator.jsx",
+              "ToolTip": "C:\\Users\\gyan\\source\\repos\\reactproject1\\src\\BMICalculator.jsx",
+              "RelativeToolTip": "src\\BMICalculator.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-01T15:35:09.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "counterStateExample.jsx",
+              "DocumentMoniker": "C:\\Users\\gyan\\source\\repos\\reactproject1\\src\\counterStateExample.jsx",
+              "RelativeDocumentMoniker": "src\\counterStateExample.jsx",
+              "ToolTip": "C:\\Users\\gyan\\source\\repos\\reactproject1\\src\\counterStateExample.jsx",
+              "RelativeToolTip": "src\\counterStateExample.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-30T17:56:28.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "propsExample.jsx",
+              "DocumentMoniker": "C:\\Users\\gyan\\source\\repos\\reactproject1\\src\\propsExample.jsx",
+              "RelativeDocumentMoniker": "src\\propsExample.jsx",
+              "ToolTip": "C:\\Users\\gyan\\source\\repos\\reactproject1\\src\\propsExample.jsx",
+              "RelativeToolTip": "src\\propsExample.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-30T17:53:35.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fetchData.jsx",
+              "DocumentMoniker": "C:\\Users\\gyan\\source\\repos\\reactproject1\\src\\fetchData.jsx",
+              "RelativeDocumentMoniker": "src\\fetchData.jsx",
+              "ToolTip": "C:\\Users\\gyan\\source\\repos\\reactproject1\\src\\fetchData.jsx",
+              "RelativeToolTip": "src\\fetchData.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-30T17:49:07.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputExample.jsx",
+              "DocumentMoniker": "C:\\Users\\gyan\\source\\repos\\reactproject1\\src\\InputExample.jsx",
+              "RelativeDocumentMoniker": "src\\InputExample.jsx",
+              "ToolTip": "C:\\Users\\gyan\\source\\repos\\reactproject1\\src\\InputExample.jsx",
+              "RelativeToolTip": "src\\InputExample.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-30T17:45:05.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fromEventHandle.jsx",
+              "DocumentMoniker": "C:\\Users\\gyan\\source\\repos\\reactproject1\\src\\fromEventHandle.jsx",
+              "RelativeDocumentMoniker": "src\\fromEventHandle.jsx",
+              "ToolTip": "C:\\Users\\gyan\\source\\repos\\reactproject1\\src\\fromEventHandle.jsx",
+              "RelativeToolTip": "src\\fromEventHandle.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-30T17:24:49.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\gyan\\source\\repos\\reactproject1\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "C:\\Users\\gyan\\source\\repos\\reactproject1\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-30T17:14:05.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
